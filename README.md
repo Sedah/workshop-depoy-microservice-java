@@ -4,6 +4,9 @@
 
 [![Build Status](https://travis-ci.com/Sedah/workshop-depoy-microservice-java.svg?branch=master)](https://travis-ci.com/Sedah/workshop-depoy-microservice-java)
 
+ [My catalog service in Google Cloud](http://35.196.152.58:80)
+
+
 # Demo :: Deploy microservices with Docker
 
 ## Step 1 :: Clone project

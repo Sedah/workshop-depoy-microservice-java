@@ -1,5 +1,5 @@
-## Docker Hub
-  * [My Docker Hub](https://cloud.docker.com/u/sedah/settings)
+
+ [My Docker Hub](https://cloud.docker.com/u/sedah/settings)
 
 
 [![Build Status](https://travis-ci.com/up1/workshop-depoy-microservice-java.svg?branch=master)](https://travis-ci.com/up1/workshop-depoy-microservice-java)

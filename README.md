@@ -2,7 +2,7 @@
  [My Docker Hub](https://cloud.docker.com/u/sedah/settings)
 
 
-[![Build Status](https://travis-ci.com/up1/workshop-depoy-microservice-java.svg?branch=master)](https://travis-ci.com/up1/workshop-depoy-microservice-java)
+[![Build Status](https://travis-ci.com/Sedah/workshop-depoy-microservice-java.svg?branch=master)](https://travis-ci.com/Sedah/workshop-depoy-microservice-java)
 
 # Demo :: Deploy microservices with Docker
 

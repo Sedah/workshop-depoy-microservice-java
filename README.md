@@ -1,3 +1,7 @@
+## Docker Hub
+  * [My Docker Hub](https://cloud.docker.com/u/sedah/settings)
+
+
 [![Build Status](https://travis-ci.com/up1/workshop-depoy-microservice-java.svg?branch=master)](https://travis-ci.com/up1/workshop-depoy-microservice-java)
 
 # Demo :: Deploy microservices with Docker
@@ -25,7 +29,7 @@ $docker image build -t product_service:1.0 .
 $docker image ls
 ```
 
-## Step 4 :: Push image to Container Image Registry (https://hub.docker.com/u/sedah)
+## Step 4 :: Push image to Container Image Registry (https://hub.docker.com)
 ```
 $docker login
 Login Succeeded
